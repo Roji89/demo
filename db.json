@@ -9,7 +9,7 @@
      "id" : 2,
      "email" : "justin@gmail.com",
      "password" : "123"
-    },
+    }
  ],
 "posts": [
     { "id": 1, "title": "Post 1" },
