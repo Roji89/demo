@@ -1,15 +1,16 @@
 {
  users:{
-  {
-  "id" : 1,
-  "email" : "roja@gmail.com",
-  "password" : "123"
+     {
+     "id" : 1,
+     "email" : "roja@gmail.com",
+     "password" : "123"
+    },
+    {
+     "id" : 2,
+     "email" : "justin@gmail.com",
+     "password" : "123"
+    },
  },
- {
-  "id" : 2,
-  "email" : "justin@gmail.com",
-  "password" : "123"
- },
- }
+posts:{}
   
 }
